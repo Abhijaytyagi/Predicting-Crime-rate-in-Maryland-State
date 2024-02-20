@@ -1,1 +1,13 @@
 # Predicting-Crime-rate-in-a-City
+
+Crime, a complex and ever-shifting puzzle, weaves a narrative that varies across the spatial and temporal tapestry of human existence. Unraveling the intricacies of criminal behavior requires a nuanced understanding of the myriad factors influencing its manifestation. This project endeavors to embark on a journey into the heart of this enigma, exploring the dynamics of crime rates across the state of Maryland from 1975 to 2016. The motivation behind this exploration lies in the imperative for policymakers to comprehend the ever-changing landscape of crime, a landscape influenced by socioeconomic complexities that defy simple categorization.
+
+​
+
+Crime is not a monolithic entity; its manifestations are deeply entangled with the multifaceted web of socio-economic factors. Policymakers, entrusted with the responsibility of shaping rules and regulations, grapple with the challenge of deciphering why certain regions bear a heavier burden of crime than others. In the realm of government statistics, crime rates are often nestled within intricate datasets, mirroring the diverse characteristics of the U.S. states. Maryland, with its array of counties ranging from densely populated urban hubs to sparsely inhabited rural landscapes, provides a rich canvas for exploration. The nested nature of these datasets prompts a deeper inquiry into the spatial and temporal dimensions of crime, aiming to transcend the conventional understanding and provide insights that can inform the crafting of effective and targeted policies.
+
+​
+
+At the core of our exploration lies the application of advanced machine learning models to dissect and interpret crime statistics meticulously gathered by the Maryland Statistical Analysis Center. This approach seeks to move beyond the conventional boundaries of statistical analysis, delving into the realm of predictive modeling and pattern recognition. The project aims to discern whether a linear trend in violent crime emerges over the specified timeframe, reflecting not only historical patterns but also providing a lens into potential future trajectories. In doing so, we aspire to offer a comprehensive understanding of crime dynamics, untangling the intricacies that govern its ebbs and flows, and ultimately contributing to the foundation of informed and impactful policymaking for the state of Maryland.
+
+For further context on the impact of crime dynamics and the necessity for innovative approaches, refer to articles such as The Challenge of Understanding Crime Trends in the United States ,  Is Violent Crime on Rise in Maryland?,  and Maryland sees sharp increase of youth violence .
